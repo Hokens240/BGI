@@ -40730,6 +40730,10 @@ hr {
     background: linear-gradient(180deg, rgba(var(--bs-success-rgb), .12) 0, rgba(var(--bs-success-rgb), .03) 100%)
 }
 
+.cyan-gradient {
+    background: linear-gradient(180deg, rgba(var(--bs-cyan-rgb), .12) 0, rgba(var(--bs-cyan-rgb), .03) 100%)
+}
+
 .z-index-5 {
     z-index: 5 !important
 }
